@@ -11,8 +11,8 @@ To set up and run the application, follow these steps:
 
 ### Clone the repository:
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/porchy21/5DTech.git
+cd 5DTech
 ```
 ### Build and start the services:
 
